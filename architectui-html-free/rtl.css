@@ -24150,8 +24150,8 @@ a.fc-more:hover {
 	}
 	.app-sidebar {
 		flex: 0 0 280px !important;
-		width: 280px !important;
-		transform: translateX(-280px);
+		width: 200px !important;
+		
 		position: fixed
 	}
 	.app-sidebar .app-header__logo {
